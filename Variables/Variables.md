@@ -1,1 +1,1 @@
-Learn variables
+Learn variables and lists
